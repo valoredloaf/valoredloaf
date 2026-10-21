@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Cover Photo](./enriquee.jpg)
+
+
 <!--
 **valoredloaf/valoredloaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
