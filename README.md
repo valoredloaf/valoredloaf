@@ -1,4 +1,4 @@
-## Hi there 👋
+## Your Average Vibe Coder
 
 ![Cover Photo](./enriquee.jpg)
 
