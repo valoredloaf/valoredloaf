@@ -1,6 +1,6 @@
-## Your Average Vibe Coder
-
 ![Cover Photo](./enriquee.jpg)
+
+## Your Average Vibe Coder
 
 
 <!--
